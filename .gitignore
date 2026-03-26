@@ -1,2 +1,15 @@
 .omc
 .claude
+
+# reverse artifacts
+source/
+voice_manager_chunk.js
+voice_market_chunk.js
+
+# nested vite project
+tts-gjld/node_modules/
+tts-gjld/dist/
+tts-gjld/dist-ssr/
+tts-gjld/*.local
+tts-gjld/.env
+tts-gjld/.env.*
