@@ -46,7 +46,7 @@
 
 ### 1) GitHub 关注趋势（真实数据）
 
-[![Star History Chart](https://api.star-history.com/svg?repos=irunmyway/tts-gjld&type=Date)](https://star-history.com/#irunmyway/tts-gjld&Date)
+[![Star History Chart](https://api.star-history.com/image?repos=irunmyway%2tts-gjld&type=date&legend=top-left)](https://www.star-history.com/?repos=runmyway%2tts-gjld&type=date&legend=top-left)
 
 ### 2) 功能演进趋势（项目路线）
 
